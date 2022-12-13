@@ -26,7 +26,7 @@ setup(
 
     # Author details
     author='B. Gee',
-    author_email='bgee@codeapex.com',
+    author_email='bmgee@users.noreply.github.com',
 
     # Choose your license
     license='Apache License 2.0',
